@@ -3,7 +3,7 @@
     "tokenSymbol": "USDC",
     "decimals": 6,
     "totalSupply": "1000000000000",
-    "owner": "0xYourContractAddress",
+    "owner": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "logo": {
       "type": "image/png",
       "url": "https://samsheikh0077.github.io/images-repo/Frame%2014.png",
@@ -12,7 +12,7 @@
     "description": "USD Coin (USDC) is a stablecoin pegged to the US Dollar.",
     "links": {
       "website": "https://yourwebsite.com",
-      "explorer": "https://bscscan.com/token/0xYourContractAddress",
+      "explorer": "https://bscscan.com/token/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "twitter": "https://twitter.com/yourprofile"
     }
   }
