@@ -1,0 +1,19 @@
+{
+    "tokenName": "USD Coin",
+    "tokenSymbol": "USDC",
+    "decimals": 6,
+    "totalSupply": "1000000000000",
+    "owner": "0xYourContractAddress",
+    "logo": {
+      "type": "image/png",
+      "url": "https://samsheikh0077.github.io/images-repo/Frame%2014.png",
+      "base64": "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"
+    },
+    "description": "USD Coin (USDC) is a stablecoin pegged to the US Dollar.",
+    "links": {
+      "website": "https://yourwebsite.com",
+      "explorer": "https://bscscan.com/token/0xYourContractAddress",
+      "twitter": "https://twitter.com/yourprofile"
+    }
+  }
+  
